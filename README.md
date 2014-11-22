@@ -12,3 +12,7 @@ cucumber backgrounder: https://github.com/cucumber/cucumber/wiki/Cucumber-Backgr
 the site I want to test: http://dan-the-baker.com/toastbar/
 
 
+commands
+`bundle install` - ran this after making the Gemfile. this produced the Gemfile.lock file
+
+
