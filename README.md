@@ -31,5 +31,17 @@ CucumberByCommit master@0684848 ✗ $ bundle exec cucumber
 0m0.000s
 ```
 
+added a feature file `features/visit_a_site.feature` and reran cucumber:
+```bash
+CucumberByCommit master@6857010 $ bundle exec cucumber
+Feature: Visiting the site
 
+  Background:  # features/visit_a_site.feature:3
+
+  Scenario:  # features/visit_a_site.feature:6
+
+1 scenario (1 passed)
+0 steps
+0m0.001s
+```
 
