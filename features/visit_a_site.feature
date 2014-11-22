@@ -4,4 +4,5 @@ Feature: Visiting the site
 
 
   Scenario:
+    Given I visit a site
 
